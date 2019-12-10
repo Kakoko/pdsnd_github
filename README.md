@@ -8,8 +8,9 @@ BikerShare Data
 Calculaste Statistics where an interactive environment is created where the user can choose the data or filter
 
 ### Files used
-Include the files used
+bikershare.py
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Forked from udacity/pdsnd_github initiall
+
 
