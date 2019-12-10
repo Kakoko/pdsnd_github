@@ -16,6 +16,7 @@ Forked from udacity/pdsnd_github initiall
 ### Author
 *Simuzeche Kaluwa*
 
-
+##$ Technology Used
+***Python***
 
 
