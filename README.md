@@ -2,10 +2,10 @@
 This project was created on 10th December 2019
 
 ### Project Title
-Replace the Project Title
+BikerShare Data
 
 ### Description
-Describe what your project is about and what it does
+Calculaste Statistics where an interactive environment is created where the user can choose the data or filter
 
 ### Files used
 Include the files used
