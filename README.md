@@ -13,4 +13,9 @@ bikershare.py
 ### Credits
 Forked from udacity/pdsnd_github initiall
 
+### Author
+*Simuzeche Kaluwa*
+
+
+
 
